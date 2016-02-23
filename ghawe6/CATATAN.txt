@@ -1,0 +1,25 @@
+1:11 AM 2/15/2016
+
+males bikin .docx jadi di notepad aja lah ya...
+
+HOME BELUM BERES!!!!!
+LIEUR KENEH TAMPILAN HEADERNYA
+
+
+Home
+- Freelancer --> register/reg --> register/regnext --> register/daftar --> job/
+- Client --> register/client --> client/ --> client/browse --> client/search
+	  				 --> job/create --> job/desc
+
+.................................................................................
+
+Job
+- Freelancer : job/ --> job/desc --> job/proposal
+- Client : job/create --> job/desc --> client/proposals
+
+.................................................................................
+
+Profile
+- Freelancer
+	.Edit --> profile/edit
+	.Proposal --> profile/proposal --> profile/details
